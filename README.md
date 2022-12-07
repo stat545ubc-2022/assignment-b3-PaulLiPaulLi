@@ -22,5 +22,5 @@
 
 The `bcl-data` dataset is from the provided from GitHub by Dean Attali which is for public use 
 
-Download the `bcl-data` from <!--- https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv --> before proceeding to the App
+Download the `bcl-data` from [here](https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv) before proceeding to the App
 
