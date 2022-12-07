@@ -8,7 +8,7 @@
 
 - B3: Option A (BC Liquor)
 
-## **App Description (Features)**:
+## **App Description (New Features)**:
 
 1. Added a BC Liquor Store photo in the main panel for aesthetics
 2. Allow users to search for multiple alcohol types at once instead of wine/beer/etc, one at a time
