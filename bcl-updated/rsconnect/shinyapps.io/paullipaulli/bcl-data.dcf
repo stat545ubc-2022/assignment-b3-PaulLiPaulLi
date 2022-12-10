@@ -1,13 +1,13 @@
 name: bcl-data
-title: bcl-data
+title:
 username:
 account: paullipaulli
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 7860937
-bundleId: 6618175
+appId: 7841644
+bundleId: 6618159
 url: https://paullipaulli.shinyapps.io/bcl-data/
-when: 1670631467.76805
-lastSyncTime: 1670631467.76806
+when: 1670631111.18783
+lastSyncTime: 1670631111.18784
 asMultiple: FALSE
 asStatic: FALSE
