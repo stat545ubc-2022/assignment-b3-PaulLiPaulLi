@@ -10,6 +10,11 @@
 - B3: Option A (BC Liquor)
 - B4: Option C (Shiny App Updated)
 
+## Source Code Location:
+
+- B3: `bcl-data/app.R`
+- B4: `bcl-updated/app.R`
+
 ## **B3 App Description (New Features)**:
 
 1. Added a BC Liquor Store photo in the main panel for aesthetics
